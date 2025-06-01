@@ -74,12 +74,13 @@ Then `Run` the program.
 
 13.	Follow accordingly:
 
-![img8](./images/8.png)
+![img8](./images/8.png)  
 
 
-14.	Click on Next and the license will be successfully installed.
-![img9](./images/9.png)
-
+14.	Click on Next and the license will be successfully installed.  
+![img9](./images/9.png)  
+  
+  
 15.	Now open a Temporary Project.
 ![img10](./images/10.png)
 ![img11](./images/11.png)
