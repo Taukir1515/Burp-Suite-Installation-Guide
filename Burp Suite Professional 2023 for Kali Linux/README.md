@@ -1,4 +1,3 @@
-# Burp Suite Professional 2023 Installation Guideline for Kali Linux
 <!-- omit in toc -->
 # Burp Suite Professional 2023 Installation Guideline for Kali Linux
 
