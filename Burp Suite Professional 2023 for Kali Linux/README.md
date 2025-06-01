@@ -4,15 +4,14 @@
 <!-- omit in toc -->
 ## Table of Content
 
-- [Burp Suite Professional 2023 Installation Guideline for Kali Linux](#burp-suite-professional-2023-installation-guideline-for-kali-linux)
-  - [Installation](#installation)
-  - [Create Launcher for Burp Suite](#create-launcher-for-burp-suite)
-  - [Burp Suite Extensions](#burp-suite-extensions)
-    - [Burp Bounty Pro](#burp-bounty-pro)
-    - [Logger++](#logger)
-  - [Configure Burp Suite Pro 2023](#configure-burp-suite-pro-2023)
-    - [Install PwnFox Extension on Browser](#install-pwnfox-extension-on-browser)
-    - [Install CA Certificate](#install-ca-certificate)
+- [Installation](#installation)
+- [Create Launcher for Burp Suite](#create-launcher-for-burp-suite)
+- [Burp Suite Extensions](#burp-suite-extensions)
+  - [Burp Bounty Pro](#burp-bounty-pro)
+  - [Logger++](#logger)
+- [Configure Burp Suite Pro 2023](#configure-burp-suite-pro-2023)
+  - [Install PwnFox Extension on Browser](#install-pwnfox-extension-on-browser)
+  - [Install CA Certificate](#install-ca-certificate)
 
 ## Installation
 
